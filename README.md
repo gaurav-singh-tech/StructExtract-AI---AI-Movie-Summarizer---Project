@@ -35,6 +35,9 @@
 
 **StructExtract-AI** is a lightweight AI pipeline that reads any free-form paragraph describing a movie and extracts a set of structured fields — automatically — using **Mistral AI** (via LangChain).
 
+
+Live App Link : https://structextract-ai---ai-movie-summarizer---project-nbmbjfpwgm4we.streamlit.app/
+
 It ships with **two interfaces**:
 
 | Interface | File | Best for |
