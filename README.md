@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎬 StructExtract-AI
-### AI-Powered Movie Information Extractor 
+### AI-Powered Movie Information Extractor
 
 > **Turn unstructured movie text → clean, structured insights — in seconds.**
 
